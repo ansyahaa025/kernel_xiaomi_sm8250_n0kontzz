@@ -108,7 +108,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       CLANG_DOWNLOAD_LINK: https://github.com/greenforce-project/greenforce_clang/releases/download/20042025/greenforce-clang-21.0.0git-20042025.tar.gz
-      KERNEL_REPO_URL: https://github.com/bimoalfarrabi/kernel_xiaomi_sm8250_n0kontzz
+      KERNEL_REPO_URL: https://github.com/ansyahaa025/kernel_xiaomi_sm8250_n0kontzz
       DTBO_REPO_URL: https://github.com/bimoalfarrabi/AKmunch
       DTBO_REPO_BRANCH: main
     steps:
@@ -249,7 +249,7 @@ jobs:
       contents: write
     env:
       CLANG_DOWNLOAD_LINK: https://github.com/greenforce-project/greenforce_clang/releases/download/20042025/greenforce-clang-21.0.0git-20042025.tar.gz
-      KERNEL_REPO_URL: https://github.com/bimoalfarrabi/kernel_xiaomi_sm8250_n0kontzz
+      KERNEL_REPO_URL: https://github.com/ansyahaa025/kernel_xiaomi_sm8250_n0kontzz
       DTBO_REPO_URL: https://github.com/bimoalfarrabi/AKmunch
       DTBO_REPO_BRANCH: main
     steps:
